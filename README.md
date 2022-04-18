@@ -1,10 +1,20 @@
-##  👋 Hi, I’m @Neimsu
+##  👋 Hi, I’m @Nemsu
 - 🌱 I’m currently working as a backend developer.
-- 🌱 I’m learning React and Flutter
 - 💞️ I’m a part of KojiLab
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Learn more, earn more and be a pragmatic programmer!
 - 📫 How to reach me ? Here: tedoji2018@gmail.com
+
+<p>
+  <p align="center">
+     <img
+      id="git-language"
+      class="status-card"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemsu&layout=compact&theme=dracula"
+      alt="Top language"
+         width="50%"
+    />
+</p>
 
 ### Connect with me:
 
@@ -12,8 +22,3 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/nem-su-ba094b218/
-
-<!---
-yunnam21/yunnam21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
