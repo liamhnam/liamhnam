@@ -1,7 +1,6 @@
 ##  👋 Hi, I’m @tohana
 - 🌱 I’m currently working as a backend developer.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Learn more, earn more and be a pragmatic programmer!
 - 📫 How to reach me ? Here: nemsu.tech@gmail.com
 
 <p>
