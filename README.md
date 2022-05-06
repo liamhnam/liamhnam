@@ -1,9 +1,8 @@
-##  👋 Hi, I’m @Nemsu
+##  👋 Hi, I’m @tohana
 - 🌱 I’m currently working as a backend developer.
-- 💞️ I’m a part of KojiLab
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Learn more, earn more and be a pragmatic programmer!
-- 📫 How to reach me ? Here: tedoji2018@gmail.com
+- 📫 How to reach me ? Here: nemsu.tech@gmail.com
 
 <p>
   <p align="center">
