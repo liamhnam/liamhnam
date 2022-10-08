@@ -1,5 +1,5 @@
 ##  👋 Hi, I’m @Nemsu
-- 🌱 I’m currently working as a Desktop Developer.
+- 🌱 I’m currently working as a Software Developer.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me ? Here: nemsu.tech@gmail.com
 
