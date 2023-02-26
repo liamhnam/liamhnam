@@ -13,7 +13,7 @@
 ## Experience
 - Programming Languages
   - C#
-  - PHP
+  - Python
   - Java
 - Backend Development
   - Database Infrastructure
