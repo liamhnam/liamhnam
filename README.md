@@ -3,14 +3,17 @@
 ---
 
 ### 🧠 About Me
+# Liam (Liamhnam) 🔭
 
-I'm a passionate **Software Engineer** with a strong focus on backend development and building practical tools that solve real-world problems.
+💬 a.k.a. Hoang Nam Ho.
+> 🚀 A developer passionate about technology, solving real-world problems, and building things that make people's lives easier.
 
-I love:
-- 🧩 Creating clean, scalable, and modular codebases
-- ⚙️ Automating tasks to improve developer efficiency
-- 🌍 Supporting open-source and community-driven development
-
+- Vietnamese / 24 y.o.
+- vi-VN / en-US
+- Programmer / Developer / Coder / Engineer
+- Hobbyist Researcher / Reverse Engineering / Tech & hardware enthusiast
+- Collector of niche electronic devices
+- Always tinkering, often fixing, sometimes reinventing
 ---
 
 ### ⚙️ Tech Stack
@@ -39,15 +42,6 @@ I love:
   <img src="https://github-readme-stats.vercel.app/api?username=liamhnam&show_icons=true&theme=tokyonight&count_private=true&hide=issues" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamhnam&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
----
-
-### 🎯 Current Focus
-
-- 🧩 Refactoring CLI tools into modular web applications  
-- 🔐 Developing secure, user-friendly utilities (e.g. PIT calculators, USB encryption tools)  
-- ☁️ Learning DevOps, Docker, and cloud deployment workflows  
-- 🌍 Supporting Vietnamese dev communities with bilingual tools
 
 ---
 
