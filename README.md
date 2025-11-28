@@ -47,7 +47,7 @@
 
 ### 📬 Contact Me
 
-- 📧 **Email:** hoangnam.liam@gmail.com  
+- 📧 **Email:** liamhnam@gmail.com  
 - 🌐 **GitHub:** [github.com/liamhnam](https://github.com/liamhnam)
 
 ---
