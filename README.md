@@ -8,7 +8,7 @@
 💬 a.k.a. Hoang Nam Ho.
 > 🚀 A developer passionate about technology, solving real-world problems, and building things that make people's lives easier.
 
-- Vietnamese / 24 y.o.
+- Vietnamese / 25 y.o.
 - vi-VN / en-US
 - Programmer / Developer / Coder / Engineer
 - Hobbyist Researcher / Reverse Engineering / Tech & hardware enthusiast
