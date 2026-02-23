@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=liamhnam&show_icons=true&theme=tokyonight&count_private=true&hide=issues" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamhnam&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=liamhnam&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
