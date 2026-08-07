@@ -3,7 +3,7 @@
 ---
 
 ### About Me
-# Liam (Liamhnam) 🔭
+# Liam (Liamhnam) 
 
 💬 a.k.a. Hoang Nam Ho.
 > A developer passionate about technology, solving real-world problems, and building things that make people's lives easier.
